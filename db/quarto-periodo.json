@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Sistemas Distribuídos e SOA",
+        "dificuldade": 2
+    },
+    {
+        "nome": "Projeto de Sistemas",
+        "dificuldade": 1
+    },
+    {
+        "nome": "Testes de Software",
+        "dificuldade": 1
+    },
+    {
+        "nome": "Projeto de Interface Web",
+        "dificuldade": 2
+    },
+    {
+        "nome": "Programação para Web II",
+        "dificuldade": 0
+    },
+    {
+        "nome": "Gestão de Projetos",
+        "dificuldade": 0
+    }
+]

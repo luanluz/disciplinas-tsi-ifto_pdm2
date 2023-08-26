@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Fundamentos e Projeto de Banco de Dados",
+        "dificuldade": 0
+    },
+    {
+        "nome": "Análise de Sistemas",
+        "dificuldade": 1
+    },
+    {
+        "nome": "Introdução à Programação",
+        "dificuldade": 2
+    },
+    {
+        "nome": "Programação Orientada a Objetos",
+        "dificuldade": 0
+    },
+    {
+        "nome": "Programação Básica para Web",
+        "dificuldade": 1
+    }
+]

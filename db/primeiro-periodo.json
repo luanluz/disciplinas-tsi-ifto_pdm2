@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Fundamentos de Redes de Computadores",
+        "dificuldade": 1
+    },
+    {
+        "nome": "Tendências Tecnológicas para o Mercado de TI",
+        "dificuldade": 0
+    },
+    {
+        "nome": "Introdução a Computação",
+        "dificuldade": 0
+    },
+    {
+        "nome": "Informática Instrumental",
+        "dificuldade": 0
+    },
+    {
+        "nome": "Introdução à Lógica",
+        "dificuldade": 0
+    },
+    {
+        "nome": "Inglês Técnico",
+        "dificuldade": 0
+    }
+]

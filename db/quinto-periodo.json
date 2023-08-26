@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Segurança de Sistemas",
+        "dificuldade": 0
+    },
+    {
+        "nome": "Infraestrutura para Sistemas Web",
+        "dificuldade": 1
+    },
+    {
+        "nome": "Administração de Banco de Dados",
+        "dificuldade": 0
+    },
+    {
+        "nome": "Novas Tecnologias em BD",
+        "dificuldade": 1
+    },
+    {
+        "nome": "Programação para Dispositivos Móveis I",
+        "dificuldade": 2
+    },
+    {
+        "nome": "Metodologias de Desenvolvimento",
+        "dificuldade": 0
+    }
+]

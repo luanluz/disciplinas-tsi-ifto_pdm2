@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Introdução à Conectividade",
+        "dificuldade": 0
+    },
+    {
+        "nome": "Gerenciamento de Dados para Web",
+        "dificuldade": 1
+    },
+    {
+        "nome": "Programação para Banco de Dados",
+        "dificuldade": 2
+    },
+    {
+        "nome": "Administração de Sistemas Proprietários",
+        "dificuldade": 0
+    },
+    {
+        "nome": "Programação para Web Designers",
+        "dificuldade": 1
+    },
+    {
+        "nome": "Programação para Web I",
+        "dificuldade": 0
+    }
+]
